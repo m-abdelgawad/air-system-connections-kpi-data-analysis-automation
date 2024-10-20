@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <img src="readme_files/logo.png" alt="Logo" width="80" height="80">
-  <h3 align="center">AIR System KPI Data Analysis Automation</h3>
+  <h3 align="center">AIR System Connections KPI Data Analysis Automation</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -35,7 +35,7 @@
 ## About The Project
 
 
-* Project Name: AIR System KPI Data Analysis Automation
+* Project Name: AIR System Connections KPI Data Analysis Automation
 * Version: v1.0.0
 * Organization Department: Technology
 
